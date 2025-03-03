@@ -1,13 +1,15 @@
-### CWRU Quants Resources
+## CWRU Quants Resources
 
-#### Getting Started
-<li>Version Control (GitHub, Git)</li>
+### Getting set up to work on a project
+<li><a href="https://github.com/cwruquants/resources/blob/main/version_control.md">Version Control (GitHub, Git)</a></li>   
 
-<a href="https://www.youtube.com/watch?v=cVXQ-pxNuI4">First introduction to careers in finance</a>
+### I just got here, what is Quantitative Finance? What is a quant?
+Don't worry, we have a place for you too. Please watch these videos (in any order):
+<li><a href="https://www.youtube.com/watch?v=cVXQ-pxNuI4">First introduction to careers in finance</a></li>     
 
 
 
-Miscellaneous:   
+### Miscellaneous:   
 https://neptune.ai/blog/arima-sarima-real-world-time-series-forecasting-guide
 
 
