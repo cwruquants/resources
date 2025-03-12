@@ -9,6 +9,7 @@
 ### I just got here, what is Quantitative Finance? What is a quant?
 Don't worry, we have a place for you too. Please watch these videos (in any order):
 <li><a href="https://www.youtube.com/watch?v=cVXQ-pxNuI4">First introduction to careers in finance</a></li>     
+<li><a href="https://www.youtube.com/c/dimitribianco">Dimitri Blanco (Youtube)</a> is regarded as one of the most trustworthy public sources about quantitative finance. He currently works as a quant. researcher, and makes a lot of videos about industry and his opinions on various aspects.</li>
 
 
 
