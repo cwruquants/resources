@@ -20,7 +20,7 @@ Below, we list each of our verticals, and the main skills each focuses on. We kn
 
 
 ### Miscellaneous:   
-https://neptune.ai/blog/arima-sarima-real-world-time-series-forecasting-guide
+<a href="https://neptune.ai/blog/arima-sarima-real-world-time-series-forecasting-guide">Time Series Forecasting using ARIMA and SARIMA</a>     
 <a href="https://mystery.knightlab.com/">Learn SQL</a>
 
 
