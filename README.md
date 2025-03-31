@@ -20,8 +20,9 @@ Below, we list each of our verticals, and the main skills each focuses on. We kn
 
 
 ### Miscellaneous:   
-<a href="https://neptune.ai/blog/arima-sarima-real-world-time-series-forecasting-guide">Time Series Forecasting using ARIMA and SARIMA</a>     
-<a href="https://mystery.knightlab.com/">Learn SQL</a>     
-<a href="https://www.redhat.com/en/topics/devops/what-cicd-pipeline">What is Continuous Integration/Continuous Development? (CI/CD)</a>
+* <a href="https://neptune.ai/blog/arima-sarima-real-world-time-series-forecasting-guide">Time Series Forecasting using ARIMA and SARIMA</a>     
+* <a href="https://mystery.knightlab.com/">Learn SQL</a>     
+* <a href="https://www.redhat.com/en/topics/devops/what-cicd-pipeline">What is Continuous Integration/Continuous Development? (CI/CD)</a>
+* Various NLP tasks: BLEU, ROUGE, perplexity
 
 
