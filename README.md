@@ -25,4 +25,9 @@ Below, we list each of our verticals, and the main skills each focuses on. We kn
 * <a href="https://www.redhat.com/en/topics/devops/what-cicd-pipeline">What is Continuous Integration/Continuous Development? (CI/CD)</a>
 * Various NLP tasks: BLEU, ROUGE, perplexity
 
-
+### Prep
+- Trading Interview
+- Quant Guide
+- TraderMath
+- WallStreetOasis
+- <a href="https://github.com/northwesternfintech/2025QuantInternships">Internship List</a>
