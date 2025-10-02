@@ -31,3 +31,4 @@ Below, we list each of our verticals, and the main skills each focuses on. We kn
 - TraderMath
 - WallStreetOasis
 - <a href="https://github.com/northwesternfintech/2025QuantInternships">Internship List</a>
+- <a href="https://hedgefunddatabase.notion.site/hedgefunddatabase/101e0a586a5c80e19afac2250c3a8b02?v=26be0a586a5c806c86fd000cc792b492"> Hedge Fund list </a>
